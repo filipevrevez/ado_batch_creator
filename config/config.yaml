@@ -1,0 +1,12 @@
+env: dev
+app:
+  name: ADO Task Creator
+  version: 0.1.0
+  description: Create Azure DevOps tasks from a configuration file
+
+devops:
+  organization:
+  project:
+  pat:
+
+itemsPath: files/file.json

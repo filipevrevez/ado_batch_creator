@@ -1,0 +1,31 @@
+[
+  {
+    "name": "US1",
+    "type": "user_story",
+    "description": "User Story 1",
+    "owner": "user",
+    "state": "New",
+    "Area": "Teste project\\t1",
+    "priority": 1,
+    "tasks": [
+      {
+        "name": "Task 1",
+        "type": "task",
+        "description": "Task 1 description",
+        "owner": "user",
+        "state": "New",
+        "priority": 2,
+        "estimate": 5
+      },
+      {
+        "name": "Task 2",
+        "type": "task",
+        "description": "Task 2 description",
+        "owner": "user",
+        "state": "New",
+        "priority": 3,
+        "estimate": 3
+      }
+    ]
+  }
+]

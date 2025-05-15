@@ -1,0 +1,7 @@
+FROM alpine as base
+
+USER fruser
+
+
+FROM scratch as final
+USER fruser
